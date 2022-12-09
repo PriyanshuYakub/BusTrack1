@@ -21,3 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Some Snapshots of the Application
 
 ![Alt text](SnapShots/ImageMobile1.jpg?raw=true "Title")
+
+
+## Backend Sample of location setting in Firebase
+
+![Alt text](SnapShots/FirebaseImage1.png?raw=true "Title")
