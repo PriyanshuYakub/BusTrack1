@@ -1,6 +1,8 @@
 # bus_tracker
 
-A new Flutter project.
+Track your busses from the comfort of your mobile smart device anywhere any time.
+Recieve Live updates regarding your Bus Location so you are not late for it.
+Y
 
 ## Getting Started
 
@@ -14,3 +16,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Some Snapshots of the Application
+
+![Alt text](SnapShots/ImageMobile1.jpg?raw=true "Title")
